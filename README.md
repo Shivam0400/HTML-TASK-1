@@ -25,8 +25,9 @@ Responsive design using CSS.
 Basic styling for a visually appealing layout.
 
 ## 📜 How to Use
-
-1. Clone the repository: git clone https://github.com/Shivam0400/HTML-TASK-1.git
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shivam0400/HTML-TASK-1.git
 2. Open index.html in a web browser.
 
 ## 💡 Future Enhancements
@@ -39,3 +40,4 @@ Improve responsiveness with media queries.
 For any questions or suggestions, feel free to reach out via GitHub or LinkedIn.
 
 ### ⭐ If you like this project, don't forget to give it a star! ⭐
+
