@@ -10,9 +10,12 @@ HTML5
 CSS3
 
 ## 📂 Project Structure
-HTML-TASK-1/
+HTML-TASK-1
+
 │-- index.html  # Main HTML file
+ 
 │-- styles.css  # CSS file for styling
+ 
 │-- assets/     # Folder for images and other resources (if applicable)
 
 ## 🚀 Features
@@ -23,7 +26,7 @@ Basic styling for a visually appealing layout.
 
 ## 📜 How to Use
 
-1. Clone the repository:git clone https://github.com/Shivam0400/HTML-TASK-1.git
+1. Clone the repository: git clone https://github.com/Shivam0400/HTML-TASK-1.git
 2. Open index.html in a web browser.
 
 ## 💡 Future Enhancements
